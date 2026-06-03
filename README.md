@@ -37,7 +37,7 @@ Make sure Python is installed on your computer. You do not need to install any p
 ### Initializing the Script
 Run the file from your local console wrapper:
 ```bash
-python lazy_scratch.py
+python scratch.py
 ```
 *Note: On your very first run, the tool will instantly run a pip-dependency validation shield, prepare your configuration files, and launch with `abc123` as the default global master password.*
 
